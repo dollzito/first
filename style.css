@@ -1,3 +1,12 @@
+* {
+  font-family: 'basiic';
+}
+
 body {
-  background: blue;
+  background: #FFF7FC;
+}
+
+@font-face{
+  font-family: 'basiic';
+  src: url("https://cinni.net/fonts/basiic.ttf");
 }
