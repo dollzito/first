@@ -3,7 +3,7 @@
 }
 
 body {
-  min-height: 100vh;
+  height: 100vh;
   background: #FFF7FC;
   display: flex;
   align-items: center;
