@@ -4,6 +4,9 @@
 
 body {
   background: #FFF7FC;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @font-face{
